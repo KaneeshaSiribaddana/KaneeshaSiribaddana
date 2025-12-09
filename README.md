@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaneesha Siribaddana</h1>
-<h3 align="center">Software Engineering Undergraduate | 💻 Passionate about cutting-edge technologies | 🌐 Full-stack Developer (MERN Stack) | 🤖 Kotlin Enthusiast | 🎨 UI/UX Design | 👥 Strong Team Player | 📚 Continuous Learner</h3>
+<h3 align="center">Software Engineering Undergraduate | 💻 Passionate about cutting-edge technologies | 🌐 Full-stack Developer | 🤖 Kotlin Enthusiast | 🎨 UI/UX Design | 👥 Strong Team Player | 📚 Continuous Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaneeshasiribaddana&label=Profile%20views&color=0e75b6&style=flat" alt="kaneeshasiribaddana" /> </p>
